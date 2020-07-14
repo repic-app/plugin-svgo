@@ -1,0 +1,1 @@
+## Svgo Plugin from Repic Compressor.

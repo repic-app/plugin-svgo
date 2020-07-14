@@ -1,0 +1,14 @@
+{
+  "name": "plugin-svgo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "svgo": "^1.2.2"
+  }
+}
